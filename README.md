@@ -15,4 +15,4 @@
 * This repository is for security purposes only and valid for our staff
 
 > [!IMPORTANT]
-> Passphrase will be valid up to August 19 2025
+> [Passphrase](https://www.malwarebytes.com/cybersecurity/basics/what-is-passphrase#:~:text=A%20passphrase%20is%20a%20sequence,account%2C%20or%20other%20digital%20resource) will be valid up to August 19 2025
